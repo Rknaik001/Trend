@@ -264,6 +264,15 @@ h1{
     padding-top: rem;
     padding-left: 3rem;
 }
+.secondimg{
+    background-image: url(https://res.cloudinary.com/dkrt7ilhg/image/upload/v1678291493/rend/secondimg_fcemhi.jpg);
+    background-size: 180% 100%;
+    background-repeat: no-repeat;
+    height: 40vh;
+    width: 50%;
+ 
+}
+
 .gridd{
     margin: auto;
     height: 50vh;
